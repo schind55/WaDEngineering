@@ -1,0 +1,14 @@
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\persistence\entities\Student.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\spring\H2Initializer.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\application\service\StudentService.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\web\dto\CourseDto.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\StudentServicesApplication.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\web\dto\StudentDto.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\application\exception\MissingPrerequisiteException.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\persistence\entities\Course.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\web\controller\StudentController.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\application\exception\NotFoundException.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\web\controller\GenericController.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\application\init\DataInit.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\persistence\repository\CourseRepository.java
+E:\Uni\WebEngineering\RestApi\advanced-solution-plain\src\main\java\edu\de\uni\passau\webeng\students\persistence\repository\StudentRepository.java
